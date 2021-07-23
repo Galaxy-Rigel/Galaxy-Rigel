@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yueming.liu
 - 👀 I’m interested in web
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning node
 
 <!---
 Galaxy-Rigel/Galaxy-Rigel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
